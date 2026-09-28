@@ -1,8 +1,7 @@
-# 🟩 Gitcord
+# Gitcord (WIP)
 
 A Discord bot that tracks GitHub coding streaks, built to get friends competing with each other and programming more every day.
 
-> 🚧 **Work in progress.** I'm building this to learn Python, APIs, and bot development.
 
 ## How it works
 
