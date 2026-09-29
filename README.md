@@ -2,6 +2,7 @@
 
 A Discord bot that tracks GitHub coding streaks, built to get friends competing with each other and programming more every day.
 
+Gamifying programming to incentivize peers to code more!
 
 ## How it works
 
